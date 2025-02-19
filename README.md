@@ -1,4 +1,4 @@
-# `next-video`
+# `Video-NextJS`
 
 [![npm version](https://img.shields.io/npm/v/next-video?style=flat-square&color=informational)](http://npmjs.org/next-video)
 [![NPM Downloads](https://img.shields.io/npm/dm/next-video?style=flat-square&color=informational&label=npm)](https://www.npmjs.com/package/next-video)
