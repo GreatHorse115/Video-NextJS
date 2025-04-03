@@ -4,7 +4,6 @@ import { getVideoConfig } from '../src/config.js';
 
 describe('config', () => {
   before(() => {
-    process.chdir('tests');
   });
 
   after(() => {
